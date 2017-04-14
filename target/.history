@@ -1,0 +1,5 @@
+sbt about
+sbt
+sbt sbtVersion
+sbt 'inspect sbtVersion'
+sbt console
