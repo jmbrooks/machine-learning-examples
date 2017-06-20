@@ -39,3 +39,4 @@ print(accuracy)
 
 # NOTE: Be sure to check documentation for all algorithms when building
 # Keep in mind speed - slower computers will have more and more difficulty with more complex algorithms
+# Placeholder for additional notes
